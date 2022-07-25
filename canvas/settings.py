@@ -36,7 +36,7 @@ SECRET_KEY = 'django-insecure-clmvqxyg@@d!n%v-x900uz8&3b^ev6yu5^-h*ueyvke)07yh4j
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['api-canvas-bonca.herokuapp.com', 'localhost']
 
 
 # Application definition
